@@ -33,16 +33,6 @@
       }
     }
 
-    @media all and (max-width: 59.37em) {
-      .wc-bug-report-icon {
-        width: 100px;
-      }
-      .wc-site-outreach-icon,
-      .wc-bug-diagnosis-icon {
-        width: 70px;
-      }
-    }
-
     @media all and (max-width: 48.12em) {
 
       .wc-Threesteps-item-number {
